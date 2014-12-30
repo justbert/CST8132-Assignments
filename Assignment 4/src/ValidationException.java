@@ -11,8 +11,7 @@
  */
 
 /**
- * A Singleton based Comparator which allows for the sorting of Contact objects by
- * last name in an descending order.
+ * An exception thrown when data is not in a specified format.
  * @author Justin Bertrand
  * @version 1.0
  * @since 1.8
